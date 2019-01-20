@@ -1,0 +1,58 @@
+[
+    {
+      "id": "5a324dbd6c378bb8b0679a00",
+      "name": "Стул",
+      "price": {
+        "amount": 9000,
+        "currencyCode": "RUB"
+      }
+    },
+    {
+      "id": "5a324dbd6c378bb8b0679a01",
+      "name": "Стол",
+      "price": {
+        "amount": 14000,
+        "currencyCode": "RUB"
+      }
+    },
+    {
+      "id": "5a324dbd6c378bb8b0679a02",
+      "name": "Скульптура утконоса",
+      "price": {
+        "amount": 26399,
+        "currencyCode": "RUB"
+      }
+    },
+    {
+      "id": "5a324dbd6c378bb8b0679a03",
+      "name": "Скрепка",
+      "price": {
+        "amount": 9,
+        "currencyCode": "RUB"
+      }
+    },
+    {
+      "id": "5a324dbd6c378bb8b0679a04",
+      "name": "Табуретка",
+      "price": {
+        "amount": 2020,
+        "currencyCode": "RUB"
+      }
+    },
+    {
+      "id": "5a324dbd6c378bb8b0679a05",
+      "name": "Клык моржа",
+      "price": {
+        "amount": 3500,
+        "currencyCode": "RUB"
+      }
+    },
+    {
+      "id": "5a324dbd6c378bb8b0679a06",
+      "name": "Тумбочка",
+      "price": {
+        "amount": 4000,
+        "currencyCode": "RUB"
+      }
+    }
+]
